@@ -1,0 +1,10 @@
+
+*{
+ margin: 0;
+ padding: 0;
+}
+
+#banner {
+    background: #A4A4A4;
+    background-size: cover;
+}
